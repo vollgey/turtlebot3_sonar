@@ -15,7 +15,8 @@ https://github.com/ROBOTIS-GIT/turtlebot3_applications_msgs
 
 
 ## 超音波センサの取り付け
-配線は以下の図を参照。
+配線は以下の図を参照。 \
+<img src=./images/1.png width=60%>
 
 ## turtlebot内のソースについて
 turtlebot3_bringupパッケージにsonar_pub.pyを入れる。 \
